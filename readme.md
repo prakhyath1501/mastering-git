@@ -1,2 +1,2 @@
 ## Hello Git
-- I'm adding this from Features branch
+- I'm adding this from remote repo
